@@ -2,7 +2,7 @@ Coursera: Data Science
 =============================================
 A presentation on Capstone Project "PredictNextWord"
 
-By Gyaan GM [May 1, 2016]
+By Dilip Singh Kunwar [May 28, 2016]
 
 Introduction
 ========================================================
